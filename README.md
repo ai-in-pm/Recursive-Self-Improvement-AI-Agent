@@ -2,6 +2,8 @@
 
 A Python framework implementing self-modifying AI agents based on Gödel's incompleteness theorems. This framework enables agents to analyze and modify their own code during runtime, achieve self-awareness, and recursively optimize their decision-making processes.
 
+The development of this Github Repository was inspired by the "GODEL ¨ AGENT: A SELF-REFERENTIAL FRAMEWORK FOR AGENTS RECURSIVELY SELF-IMPROVEMENT" Paper, to read the full paper, visit https://arxiv.org/pdf/2410.04444
+
 ## Features
 
 - Dynamic code modification during runtime
